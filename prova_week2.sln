@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prova_week2", "prova_week2\prova_week2.csproj", "{CBF1426B-9C17-44E1-906A-1F907F26A9FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomandeTeoria", "DomandeTeoria\DomandeTeoria.csproj", "{8F6DD4EE-D930-4CA7-94C4-C107479EAEE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF1426B-9C17-44E1-906A-1F907F26A9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF1426B-9C17-44E1-906A-1F907F26A9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF1426B-9C17-44E1-906A-1F907F26A9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF1426B-9C17-44E1-906A-1F907F26A9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F6DD4EE-D930-4CA7-94C4-C107479EAEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6DD4EE-D930-4CA7-94C4-C107479EAEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6DD4EE-D930-4CA7-94C4-C107479EAEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6DD4EE-D930-4CA7-94C4-C107479EAEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94EBB56C-7CBB-40EA-B96D-699F630CDC57}
+	EndGlobalSection
+EndGlobal
